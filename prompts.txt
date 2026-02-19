@@ -1,0 +1,4 @@
+1. Help me write documentation for this code
+The reasoning behind this prompt is that AI is very useful when it comes to doing tasks like documentation.
+It does it much quicker, and usually better than a human would in fractions of the time. From the results we got,
+the prompt seemed to work well as the documentation was perfect for each method and to our standards.
